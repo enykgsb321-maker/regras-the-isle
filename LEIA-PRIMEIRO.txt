@@ -1,0 +1,8 @@
+SITE NOVO — THE ISLE: EVRIMA
+
+1. Extraia este ZIP.
+2. Envie index.html, style.css, script.js e a pasta assets para o repositório GitHub Pages.
+3. index.html e a pasta assets devem ficar no mesmo nível.
+4. Faça commit das alterações e aguarde o GitHub Pages atualizar.
+
+As 11 imagens originais estão na pasta assets. Os banners aparecem inteiros, sem corte via CSS. O texto vem do arquivo de regras enviado.
